@@ -1,2 +1,2 @@
 #!/bin/bash
-o $((BREATH '' LOVE))
+o $((BREATH""LOVE))
